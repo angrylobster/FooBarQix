@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8459400-dd4b-44af-b30d-d1c0f6ff7479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FooBarQix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FooBarQix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builders/containsString/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builders/divisibleString/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builders/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fooBarQix.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fooBarQix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/number/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validator/number/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/FooBarQix.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fooBarQix.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/fooBarQix.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/nodejs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/nodejs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579613928445</updated>
       <workItem from="1579613929842" duration="3682000" />
+      <workItem from="1579705697381" duration="241000" />
     </task>
     <servers />
   </component>
