@@ -3,7 +3,7 @@ name: Pipeline
 on: [push]
 
 jobs:
-  setup:
+  tests:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -14,10 +14,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-  test:
-    runs-on: ubuntu-latest
-    needs: setup
-    steps:
     - name: Run tests
       run: |
         npm ci
